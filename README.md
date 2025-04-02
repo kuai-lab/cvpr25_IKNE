@@ -38,6 +38,7 @@ pip install -r requirements.txt
 Note: Make sure you have installed `gcc` and `cuda`, and `nvcc` can work (if you install cuda by conda, it won't provide nvcc and you should install cuda manually.)
 
 🤖 Our code is currently based on a Transformer architecture. 🤖
+
 👾 The full version of our model is coming soon! 👾
 
 ## 📦 Datasets Preparation
