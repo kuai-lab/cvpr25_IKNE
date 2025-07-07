@@ -4,6 +4,8 @@ Official PyTorch implementation of the CVPR 2025 paper **Insightful Instance Fea
 
 Wonseok Roh, Hwanhee Jung, Giljoo Nam, Dong In Lee, Hyeongcheol Park, Sang Ho Yoon, Jungseock Joo, Sangpil Kim
 
+[\[Paper\]](https://openaccess.thecvf.com/content/CVPR2025/html/Roh_Insightful_Instance_Features_for_3D_Instance_Segmentation_CVPR_2025_paper.html)
+
 #### Kernel-based IKNE Architecture
 <div align="center">
   <img src="figs/IKNE_kernel.png"/>
@@ -96,5 +98,5 @@ python3 tools/train.py configs/scannet/ikne_scannet.yaml --resume [MODEL_PATH] -
 | QueryFormer      | 56.5    | 74.2    |
 | MAFT             | 59.9    | 76.5    |
 | EASE             | 60.2    | 77.2    |
-| **IKNE (Ours)**  | **62.9**    | **81.8**    |
+| **[IKNE (Ours)](https://kuaicv.synology.me/cvpr2025/ikne/best_629.pth)**  | **62.9**    | **81.8**    |
 
