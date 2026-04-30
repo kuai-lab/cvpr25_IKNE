@@ -81,7 +81,7 @@ python prepare_data_inst_with_normal.py.py --data_split test
 
 You can download the pretrained IKNE model on ScanNetV2 validation set:
 
-- [download link](https://kuaicv.synology.me/weights/cvpr2025/ikne/best_629.pth)
+- [Weight link](https://kuaicv.synology.me/weights/cvpr2025/ikne/best_629.pth)
 
 ## 🎾 Training
 
