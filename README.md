@@ -106,3 +106,13 @@ python3 tools/train.py configs/scannet/ikne_scannet.yaml --resume [MODEL_PATH] -
 | EASE             | 60.2    | 77.2    |
 | **[IKNE (Ours)](https://kuaicv.synology.me/cvpr2025/ikne/best_629.pth)**  | **62.9**    | **81.8**    |
 
+## Citation
+```tex
+@inproceedings{roh2025insightful,
+  title={Insightful instance features for 3D instance segmentation},
+  author={Roh, Wonseok and Jung, Hwanhee and Nam, Giljoo and Lee, Dong In and Park, Hyeongcheol and Yoon, Sang Ho and Joo, Jungseock and Kim, Sangpil},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={14057--14067},
+  year={2025}
+}
+```
